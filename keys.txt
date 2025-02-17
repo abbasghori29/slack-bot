@@ -1,0 +1,7 @@
+App ID: A08CRL8S9E2
+client id: 8442821417956.8433688893478
+client secret: b369cdc43b36d168dc505a72d5f1645b
+siging secret: c716790c728cdc8b2bf07d86ab39db33
+verification token: QemLUGFYJqTjx3VrjaHJ9R2V
+
+Bot oauth token:xoxb-8442821417956-8440348254178-2ztT61owoW85CveLZ965Soql
