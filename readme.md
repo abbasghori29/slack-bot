@@ -2,7 +2,6 @@
 
 A Slack integration that uses advanced language models and vector search to provide intelligent answers to user questions, with a feedback system for continuous improvement.
 
-![Slack Bot Banner](https://via.placeholder.com/800x200?text=SlackBot+Q%26A+Assistant)
 
 ## 📋 Table of Contents
 
@@ -44,7 +43,6 @@ The system is built with a FastAPI backend that handles:
 4. Database operations for flagged questions
 5. Admin dashboard for content moderation
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Architecture+Diagram)
 
 ## 🛠️ Technology Stack
 
